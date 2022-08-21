@@ -1,0 +1,43 @@
+.banner-main{
+	height : 90vh;
+}
+
+.btn-main{
+	font-size:max-width: 50%; margin-top: 60vh;
+}
+
+.banner-rate{
+	background-image: url(../img/Screenshot_6.png); background-position: center; padding-top: 10px; background-size: cover; background-repeat: no-repeat; background-position: center;
+}
+
+.server-rate{
+	border: 1px solid black; border-width: 1px; padding-top: 5%; padding-bottom: 5%; background-color: rgb(69, 41, 39,0.7); margin-top: 10%;margin-left: 10%;margin-right: 10%;margin-bottom: 10%;
+}
+
+.ranking-tab{
+	font-size: 20px; padding-left: 10px; background-color: rgb(0, 0, 0,0.5); background-position: center; background-image:url(../img/ranking_line.png); background-size:cover; background-position: center; background-repeat: no-repeat;
+}
+
+.image-tab{
+	display: inline-flex;
+}
+
+.text-tab{
+	font-size: 20px; padding-left: 10px;
+}
+
+.shop-card{
+	background-image: url(asset/img/rappelz_shop.jpg); background-position: center; background-size: cover; background-repeat: no-repeat; padding-top: 50px; padding-bottom: 50px; padding-left:50px; padding-right: 50px;
+}
+
+.card-opacity{
+	background-color:rgb(255, 255, 255,0.2);
+}
+
+.about-tab{
+	float: left; margin-left: 20px; display: inline-flex;
+}
+
+.about-img{
+	max-height : 80px; max-width: 80px;
+}

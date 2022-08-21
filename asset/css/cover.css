@@ -101,12 +101,15 @@ body {
 }
 
 
-.body-main{
 
-  background-image: url(asset/img/header.jpg);
+
+  .body-main {
+   background-image: url(../img/Header.jpg);
   background-size: cover;
+  background-position: center; /*AMAZING SOLUTION*/
   background-repeat: no-repeat;
-}
+  }
+
 
 .cover-container {
   max-width: 42em;
