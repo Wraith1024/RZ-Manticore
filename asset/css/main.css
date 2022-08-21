@@ -1,9 +1,44 @@
+
 .banner-main{
 	height : 90vh;
 }
 
 .btn-main{
-	font-size:max-width: 50%; margin-top: 60vh;
+	font-size:max-width: 50%; padding-top: 60vh;
+}
+
+.fs-consolas{
+  font-family: Consolas,monaco,monospace; 
+  font-size: 25px;
+}
+
+.copyright-text{
+	style="font-size:8px;
+}
+
+.copyright-text-head{
+	style="font-size:15px;
+}
+
+@media only screen and (max-width: 991px) {
+  .fs-consolas{
+  font-family: Consolas,monaco,monospace; 
+  font-size: 12px;
+}
+
+.copyright-text-head{
+	style="font-size:3px;
+}
+
+.copyright-text{
+	font-size:5px; font-weight: 10;
+}
+}
+
+
+
+.nav-inline-space{
+	margin-left:4px;
 }
 
 .banner-rate{
@@ -41,3 +76,14 @@
 .about-img{
 	max-height : 80px; max-width: 80px;
 }
+
+.login-form{
+	width: 80%;
+	text-align: center;
+	color: black;
+}
+
+.fa-center{
+	text-align: center;
+}
+
